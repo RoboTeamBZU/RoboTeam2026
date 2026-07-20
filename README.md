@@ -1,3 +1,3 @@
-# RoboTeamBZU - WRO Future Engineers 2026
+# RoboTeamBZU
 
-Repository under development.
+WRO Future Engineers 2026 repository.
