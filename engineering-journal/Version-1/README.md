@@ -1,6 +1,4 @@
 # Robot Version 1
-# Robot Version 1
-
 | Category | Details |
 |----------|---------|
 | Version | Version 1 |
