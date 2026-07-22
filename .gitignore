@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+grid_map.json
+.DS_Store

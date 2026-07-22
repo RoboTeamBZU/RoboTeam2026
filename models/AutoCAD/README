@@ -1,1 +1,6 @@
+AutoCAD source files
+====
 
+Editable CAD (.dwg / .dxf) for every custom part: chassis decks, LiDAR mount,
+Pi mount, servo/Ackermann linkage. Keep these as the single source of truth;
+export STLs to ../STL/ when parts change.
