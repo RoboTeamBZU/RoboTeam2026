@@ -28,12 +28,8 @@
 A small **autonomous car** that drives itself around the WRO Future Engineers track. It has **no remote control** — it senses the walls, keeps itself centered, turns at each corner, counts its laps, and stops on its own.
 
 ```
-        👀 SEE                🧠 THINK                🦿 ACT
-   ┌───────────────┐    ┌──────────────────┐    ┌──────────────┐
-   │ LiDAR  (walls)│    │  state machine   │    │ servo (steer)│
-   │ Gyro   (turn) │──► │  + PID heading   │──► │ motor (drive)│
-   │ Encoder(dist) │    │  + LiDAR centering│   │              │
-   └───────────────┘    └──────────────────┘    └──────────────┘
+<img width="1983" height="793" alt="sense" src="https://github.com/user-attachments/assets/0f7f14db-0d97-44a2-bc7a-30f2844a8d13" />
+
 ```
 
 ### 📸 The vehicle
