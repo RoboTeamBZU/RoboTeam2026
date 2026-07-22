@@ -29,9 +29,7 @@ A small **autonomous car** that drives itself around the WRO Future Engineers tr
 
 ```
 
-<p align="center">
-  <img src="./other/sense.png" width="700">
-</p>
+![description](./other/sense.png)
 
 ```
 
