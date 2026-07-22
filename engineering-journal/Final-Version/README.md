@@ -28,5 +28,3 @@ For the Obstacle Challenge we took a different approach from the reactive Open-C
 ## Known limits / next steps
 - Gyro-only heading still drifts slowly over long runs → next: light LiDAR/SLAM correction to bound it.
 - Fold the two configs (open vs. obstacle calibration constants) into one shared config file.
-
-📷 Add to [`images/`](./images): final vehicle (all angles), 3-lap map, start-line calibration.

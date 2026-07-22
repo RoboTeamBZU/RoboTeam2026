@@ -21,5 +21,3 @@
 - Address heading drift bleeding into straights.
 - Stop PID integral wind-up from corners.
 - Smooth the centering trim against noisy single scans.
-
-📷 Add to [`images/`](./images): steering test, kick-pulse launch, turn-profile capture.

@@ -20,6 +20,5 @@ car       sensing  control  3-lap runs
 | [Final Version](./Final-Version) | Repeatability | Start-line recalibration, centering, wind-up fix | consistent 3-lap runs |
 
 ## How to read each version
-Every version folder has a `README.md` (the write-up) and an `images/` folder for the photos, CAD screenshots, and test captures that document that stage. Add images with clear filenames as noted in each `images/README.md`.
+Every version folder has a `README.md` (the write-up) and an `images/` folder for the photos, CAD screenshots, and test captures that document that stage.
 
-> 📌 For submission, export the whole journal to a single PDF and place it per [`docs/Engineering-Journal-PDF.md`](../docs/Engineering-Journal-PDF.md).

@@ -18,7 +18,7 @@ The vehicle is a **single-motor, front-steering (Ackermann-style) autonomous car
 | Chassis | Two-deck (drivetrain below, electronics above) |
 | Compute | Raspberry Pi 4 |
 
-📷 *Add labeled photos to [`/v-photos`](../v-photos) (vehicle) and CAD renders to [`/models`](../models).*
+📷 Vehicle photos: [`/v-photos`](../v-photos) · CAD/STL: [`/models`](../models)
 
 ---
 

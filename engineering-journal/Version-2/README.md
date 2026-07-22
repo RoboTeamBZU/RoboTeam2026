@@ -21,5 +21,3 @@
 ## Decisions carried into V3
 - Fix the residual steering jitter (suspected software PWM).
 - Add a proper launch fix for the standstill stall.
-
-📷 Add to [`images/`](./images): LiDAR top-mount, power wiring/star ground, live map of a lap.

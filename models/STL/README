@@ -1,6 +1,0 @@
-STL / exported meshes
-====
-
-Print-ready / exported meshes for every custom part, exported from ../AutoCAD/.
-Keep filenames matching their CAD source (e.g. lidar-mount.dwg -> lidar-mount.stl)
-so the two folders stay in sync.

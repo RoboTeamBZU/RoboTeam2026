@@ -19,8 +19,6 @@
 
 <img src="./v-photos/hero.jpg" alt="RoboTeamBZU vehicle" width="520">
 
-<sub>⬆️ add your hero photo as <code>v-photos/hero.jpg</code> — see the image guide below</sub>
-
 </div>
 
 ---
@@ -44,7 +42,7 @@ A small **autonomous car** that drives itself around the WRO Future Engineers tr
 |:---:|:---:|:---:|:---:|
 | ![front](./v-photos/front.jpg) | ![left](./v-photos/left.jpg) | ![top](./v-photos/top.jpg) | ![bottom](./v-photos/bottom.jpg) |
 
-<sub>All six angles live in [`/v-photos`](./v-photos). See the image guide at the bottom for filenames.</sub>
+<sub>All six required angles are in [`/v-photos`](./v-photos).</sub>
 
 ---
 
@@ -131,15 +129,14 @@ RoboTeam2026/
 │   ├── Power-and-Sensor-Architecture.md (⚡ rubric 2)
 │   ├── Software-Architecture.md        (💻 rubric 3)
 │   ├── Systems-Engineering.md          (🧠 rubric 4)
-│   ├── Build-and-Setup.md              (🛠️ how to reproduce)
-│   └── Engineering-Journal-PDF.md
+│   └── Build-and-Setup.md              (🛠️ how to reproduce)
 ├── 📁 src/                     ← all Python code
 │   ├── wro_open.py             (Open Challenge autonomy)
 │   ├── robot_mapper.py         (odometry + LiDAR mapping)
 │   ├── map_viewer*.py          (PC live map / telemetry)
 │   └── tests/                  (per-module bring-up scripts)
 ├── 📁 engineering-journal/     ← V1 → V2 → V3 → Final story
-├── 📁 models/                  ← CAD + STL (AutoCAD/, STL/)
+├── 📁 models/                  ← 3D-printable STL parts
 ├── 📁 schemes/                 ← wiring diagram
 ├── 📁 other/                   ← BOM, pinout, test procedure
 ├── 📁 v-photos/                ← 6 vehicle photos
@@ -212,23 +209,6 @@ Read the full story → [Engineering Journal](./engineering-journal) · Trade-of
 | [🧠 Systems Engineering](./docs/Systems-Engineering.md) | interactions, trade-offs, iteration, risk | 4 |
 | [🛠️ Build & Setup](./docs/Build-and-Setup.md) | reproduce & run the vehicle | 5 |
 | [🧾 BOM](./other/BOM.md) · [🔌 Pinout](./other/pinout.md) · [✅ Test Procedure](./other/test-procedure.md) | parts, pins, validation | 5 |
-
----
-
-## 🖼️ Image guide (drop your photos in with these names)
-
-The README references these files. Add each image to the folder with the exact filename and it renders automatically:
-
-| Save as | Which photo |
-|---|---|
-| `v-photos/hero.jpg` | best-looking shot of the car (the sunlit one) |
-| `v-photos/front.jpg` · `back.jpg` · `left.jpg` · `right.jpg` · `top.jpg` · `bottom.jpg` | the six required vehicle angles |
-| `t-photos/team-photo.jpg` | official team photo (the three of you) |
-| `t-photos/team-fun.jpg` | fun team photo |
-| `schemes/schematic.jpg` | the pin/schematic diagram |
-| `schemes/wiring.jpg` | the Fritzing wiring diagram |
-
-✅ All photos, diagrams, and component images are in place. Optional extra: a second fun team photo as `t-photos/team-fun.jpg`.
 
 ---
 

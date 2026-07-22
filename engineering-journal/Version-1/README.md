@@ -21,5 +21,3 @@
 - Add LiDAR for lane centering and corner detection.
 - Measure `COUNTS_PER_REV` experimentally (→ 205) and cross-check against a tape measure.
 - Investigate a launch fix for the stall.
-
-📷 Add to [`images/`](./images): chassis top view, first wiring, straight-line test.
