@@ -28,7 +28,10 @@
 A small **autonomous car** that drives itself around the WRO Future Engineers track. It has **no remote control** — it senses the walls, keeps itself centered, turns at each corner, counts its laps, and stops on its own.
 
 ```
-<img width="1983" height="793" alt="sense" src="https://github.com/user-attachments/assets/0f7f14db-0d97-44a2-bc7a-30f2844a8d13" />
+
+<p align="center">
+  <img src="other/sense.png" width="700">
+</p>
 
 ```
 
