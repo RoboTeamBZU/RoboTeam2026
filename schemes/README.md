@@ -1,7 +1,14 @@
 Electromechanical diagrams
 ====
 
-Wiring diagram of the vehicle (Fritzing). Summary of the architecture:
+Diagram images in this folder (embedded in the main README):
+- `schematic.jpg` — pin/connection schematic (Pi ↔ DRV8833, MPU6050, RPLidar, servo, encoder)
+- `wiring.jpg` — Fritzing wiring diagram
+
+![schematic](./schematic.jpg)
+![wiring](./wiring.jpg)
+
+Summary of the architecture:
 
 **Power (three isolated sources, one star ground):**
 - 9 V pack #1 → switch → DRV8833 VM (drive motor only)
